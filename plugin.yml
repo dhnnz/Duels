@@ -1,0 +1,13 @@
+name: Duels
+api: 4.0.0
+version: 1.0
+main: dz\Loader
+author: dhnnz
+
+permissions:
+ duels.random.cmd:
+  default: true
+  description: "Duels Random Command Permission"
+ duels.cmd:
+  default: op
+  description: "Duels Command Permission"
